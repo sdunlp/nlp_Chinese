@@ -116,6 +116,7 @@ for example:
 ## ToDo
 
 - [ ] Process the errors
+- [ ] News training text
 
 ## Contact
 
