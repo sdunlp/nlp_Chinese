@@ -20,7 +20,7 @@ Python 2.7 or 3.5 or latest
 ```
 {
   "文件名":{
-    "code": 状态码，目前还未添加直接写了1,
+    "code": 状态码（0 or 1）,
    	"sentiment": -1-1的浮点数，接近于1为积极，-1为消极,
     "title": 题目,
     "abstract": 摘要,
@@ -32,7 +32,7 @@ Python 2.7 or 3.5 or latest
       },
     ...
     ],
-  "message":success or error
+  "message":success or wrong format
   },
 ...
 }
@@ -115,7 +115,7 @@ for example:
 
 ## ToDo
 
-- [ ] Process the errors
+- [x] Process the errors
 - [ ] News training text
 
 ## Contact
