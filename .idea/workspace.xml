@@ -70,21 +70,21 @@
               <first_editor relative-caret-position="-1037">
                 <caret line="34" column="35" lean-forward="false" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
                 <folding>
-                  <marker date="1491923783000" expanded="true" signature="563:2196" ph="{...}" />
-                  <marker date="1491923783000" expanded="true" signature="588:1364" ph="{&quot;code&quot;: 1...}" />
-                  <marker date="1491923783000" expanded="true" signature="862:1329" ph="[...]" />
-                  <marker date="1491923783000" expanded="true" signature="876:953" ph="{&quot;frequency&quot;: 19...}" />
-                  <marker date="1491923783000" expanded="true" signature="967:1044" ph="{&quot;frequency&quot;: 10...}" />
-                  <marker date="1491923783000" expanded="true" signature="1058:1136" ph="{&quot;frequency&quot;: 12...}" />
-                  <marker date="1491923783000" expanded="true" signature="1150:1227" ph="{&quot;frequency&quot;: 12...}" />
-                  <marker date="1491923783000" expanded="true" signature="1241:1319" ph="{&quot;frequency&quot;: 13...}" />
-                  <marker date="1491923783000" expanded="true" signature="1389:2194" ph="{&quot;code&quot;: 1...}" />
-                  <marker date="1491923783000" expanded="true" signature="1700:2159" ph="[...]" />
-                  <marker date="1491923783000" expanded="true" signature="1714:1790" ph="{&quot;frequency&quot;: 8...}" />
-                  <marker date="1491923783000" expanded="true" signature="1804:1879" ph="{&quot;frequency&quot;: 6...}" />
-                  <marker date="1491923783000" expanded="true" signature="1893:1969" ph="{&quot;frequency&quot;: 8...}" />
-                  <marker date="1491923783000" expanded="true" signature="1983:2059" ph="{&quot;frequency&quot;: 5...}" />
-                  <marker date="1491923783000" expanded="true" signature="2073:2149" ph="{&quot;frequency&quot;: 5...}" />
+                  <marker date="1491923796000" expanded="true" signature="563:2196" ph="{...}" />
+                  <marker date="1491923796000" expanded="true" signature="588:1364" ph="{&quot;code&quot;: 1...}" />
+                  <marker date="1491923796000" expanded="true" signature="862:1329" ph="[...]" />
+                  <marker date="1491923796000" expanded="true" signature="876:953" ph="{&quot;frequency&quot;: 19...}" />
+                  <marker date="1491923796000" expanded="true" signature="967:1044" ph="{&quot;frequency&quot;: 10...}" />
+                  <marker date="1491923796000" expanded="true" signature="1058:1136" ph="{&quot;frequency&quot;: 12...}" />
+                  <marker date="1491923796000" expanded="true" signature="1150:1227" ph="{&quot;frequency&quot;: 12...}" />
+                  <marker date="1491923796000" expanded="true" signature="1241:1319" ph="{&quot;frequency&quot;: 13...}" />
+                  <marker date="1491923796000" expanded="true" signature="1389:2194" ph="{&quot;code&quot;: 1...}" />
+                  <marker date="1491923796000" expanded="true" signature="1700:2159" ph="[...]" />
+                  <marker date="1491923796000" expanded="true" signature="1714:1790" ph="{&quot;frequency&quot;: 8...}" />
+                  <marker date="1491923796000" expanded="true" signature="1804:1879" ph="{&quot;frequency&quot;: 6...}" />
+                  <marker date="1491923796000" expanded="true" signature="1893:1969" ph="{&quot;frequency&quot;: 8...}" />
+                  <marker date="1491923796000" expanded="true" signature="1983:2059" ph="{&quot;frequency&quot;: 5...}" />
+                  <marker date="1491923796000" expanded="true" signature="2073:2149" ph="{&quot;frequency&quot;: 5...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -625,7 +625,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2794562" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -634,7 +634,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295129" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295129" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295129" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1024,21 +1024,21 @@
           <first_editor relative-caret-position="-1037">
             <caret line="34" column="35" lean-forward="false" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
             <folding>
-              <marker date="1491923783000" expanded="true" signature="563:2196" ph="{...}" />
-              <marker date="1491923783000" expanded="true" signature="588:1364" ph="{&quot;code&quot;: 1...}" />
-              <marker date="1491923783000" expanded="true" signature="862:1329" ph="[...]" />
-              <marker date="1491923783000" expanded="true" signature="876:953" ph="{&quot;frequency&quot;: 19...}" />
-              <marker date="1491923783000" expanded="true" signature="967:1044" ph="{&quot;frequency&quot;: 10...}" />
-              <marker date="1491923783000" expanded="true" signature="1058:1136" ph="{&quot;frequency&quot;: 12...}" />
-              <marker date="1491923783000" expanded="true" signature="1150:1227" ph="{&quot;frequency&quot;: 12...}" />
-              <marker date="1491923783000" expanded="true" signature="1241:1319" ph="{&quot;frequency&quot;: 13...}" />
-              <marker date="1491923783000" expanded="true" signature="1389:2194" ph="{&quot;code&quot;: 1...}" />
-              <marker date="1491923783000" expanded="true" signature="1700:2159" ph="[...]" />
-              <marker date="1491923783000" expanded="true" signature="1714:1790" ph="{&quot;frequency&quot;: 8...}" />
-              <marker date="1491923783000" expanded="true" signature="1804:1879" ph="{&quot;frequency&quot;: 6...}" />
-              <marker date="1491923783000" expanded="true" signature="1893:1969" ph="{&quot;frequency&quot;: 8...}" />
-              <marker date="1491923783000" expanded="true" signature="1983:2059" ph="{&quot;frequency&quot;: 5...}" />
-              <marker date="1491923783000" expanded="true" signature="2073:2149" ph="{&quot;frequency&quot;: 5...}" />
+              <marker date="1491923796000" expanded="true" signature="563:2196" ph="{...}" />
+              <marker date="1491923796000" expanded="true" signature="588:1364" ph="{&quot;code&quot;: 1...}" />
+              <marker date="1491923796000" expanded="true" signature="862:1329" ph="[...]" />
+              <marker date="1491923796000" expanded="true" signature="876:953" ph="{&quot;frequency&quot;: 19...}" />
+              <marker date="1491923796000" expanded="true" signature="967:1044" ph="{&quot;frequency&quot;: 10...}" />
+              <marker date="1491923796000" expanded="true" signature="1058:1136" ph="{&quot;frequency&quot;: 12...}" />
+              <marker date="1491923796000" expanded="true" signature="1150:1227" ph="{&quot;frequency&quot;: 12...}" />
+              <marker date="1491923796000" expanded="true" signature="1241:1319" ph="{&quot;frequency&quot;: 13...}" />
+              <marker date="1491923796000" expanded="true" signature="1389:2194" ph="{&quot;code&quot;: 1...}" />
+              <marker date="1491923796000" expanded="true" signature="1700:2159" ph="[...]" />
+              <marker date="1491923796000" expanded="true" signature="1714:1790" ph="{&quot;frequency&quot;: 8...}" />
+              <marker date="1491923796000" expanded="true" signature="1804:1879" ph="{&quot;frequency&quot;: 6...}" />
+              <marker date="1491923796000" expanded="true" signature="1893:1969" ph="{&quot;frequency&quot;: 8...}" />
+              <marker date="1491923796000" expanded="true" signature="1983:2059" ph="{&quot;frequency&quot;: 5...}" />
+              <marker date="1491923796000" expanded="true" signature="2073:2149" ph="{&quot;frequency&quot;: 5...}" />
             </folding>
           </first_editor>
           <second_editor />

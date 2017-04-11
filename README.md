@@ -13,7 +13,7 @@ python nlpChinese.py news
 
 ## Requirement
 
-Python 2.7 or 3.5 or latest
+Python 2+ or 3+
 
 ## Output
 
