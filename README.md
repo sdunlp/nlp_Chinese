@@ -17,11 +17,34 @@ Python 2.7 or 3.5 or latest
 
 ## Output
 
+```json
+{
+  "文件名":{
+    "code": 状态码，目前还未添加,
+   	"sentiment": -1-1的浮点数，接近于1为积极，-1为消极,
+    "title": 题目,
+    "abstract": 摘要,
+    "time": 时间
+    "keywords":[
+      {
+        "frequency": 词频,
+    	"word": 关键词
+      },
+    ...
+    ],
+  "message":success or error
+  },
+...
+}
+```
+
+
+
 for example:
 
 ```json
 {
-    "news_test_0.txt": {
+    "news_test_0.txt": {  
         "code": 1,
         "sentiment": -0.5913626456902517,
         "tilte": "河南一精神病院患者用筷子袭击女患者，致三死一重伤",
@@ -89,6 +112,10 @@ for example:
 ## Reference
 
 [SnowNLP](https://github.com/isnowfy/snownlp)
+
+## Future
+
+- [ ] Process the errors
 
 ## Contact
 
