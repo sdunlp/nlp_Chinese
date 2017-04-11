@@ -17,10 +17,10 @@ Python 2.7 or 3.5 or latest
 
 ## Output
 
-```json
+```
 {
   "文件名":{
-    "code": 状态码，目前还未添加,
+    "code": 状态码，目前还未添加直接写了1,
    	"sentiment": -1-1的浮点数，接近于1为积极，-1为消极,
     "title": 题目,
     "abstract": 摘要,
