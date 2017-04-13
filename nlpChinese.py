@@ -104,10 +104,10 @@ def getJson(fold, filename):
         score = (s.sentiments - 0.5) * 2  # -1-1规范化
 
         keywords = [word0, word1, word2, word3, word4]
-        result["code"] = 1
+        result["code"] = 0
         result["message"] = "sucess"
     except IOError:
-        result["code"] = 0
+        result["code"] = 1
         result["message"] = "wrong format"
         return result
 
@@ -126,7 +126,23 @@ if __name__ == '__main__':
     ret = getListFiles(fold);
     data = {}
     for each in ret:
-        result = getJson(fold, each)
+        try:
+            result = getJson(fold, each)
+        except BaseException:
+            ret = {}
+            ret["code"] = 1
+            ret["message"] = "wrong format"
+            result = ret
+        except ZeroDivisionError:
+            ret={}
+            ret["code"] = 1
+            ret["message"] = "wrong format"
+            result =ret
+        except ValueError, e:
+            ret = {}
+            ret["code"] = 1
+            ret["message"] = "wrong format"
+            result = ret
         data[each] = result
 
     jsonStr = json.dumps(data, ensure_ascii=False)
