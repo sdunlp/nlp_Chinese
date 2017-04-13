@@ -84,20 +84,20 @@ def getJson(fold, filename):
         for w in keyword_rank.top_index(5):
             if wordcount == 0:
                 word0["word"] = w
-                word0["frequency"] = cotent.count(w)
+                word0["frequency"] = float(cotent.count(w))/float(len(cotent))
 
             if wordcount == 1:
                 word1["word"] = w
-                word1["frequency"] = cotent.count(w)
+                word1["frequency"] = float(cotent.count(w))/float(len(cotent))
             if wordcount == 2:
                 word2["word"] = w
-                word2["frequency"] = cotent.count(w)
+                word2["frequency"] = float(cotent.count(w))/float(len(cotent))
             if wordcount == 3:
                 word3["word"] = w
-                word3["frequency"] = cotent.count(w)
+                word3["frequency"] = float(cotent.count(w))/float(len(cotent))
             if wordcount == 4:
                 word4["word"] = w
-                word4["frequency"] = cotent.count(w)
+                word4["frequency"] = float(cotent.count(w))/float(len(cotent))
             wordcount += 1
 
         s = SnowNLP(cotent)
