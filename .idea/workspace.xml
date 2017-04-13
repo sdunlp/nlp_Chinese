@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5ddaadd-7fad-4752-b4e3-67504f534cdf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nlpChinese.py" afterPath="$PROJECT_DIR$/nlpChinese.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,11 +28,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="nlpChinese.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="nlpChinese.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/nlpChinese.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
-              <caret line="99" column="64" lean-forward="false" selection-start-line="99" selection-start-column="64" selection-end-line="99" selection-end-column="64" />
+            <state relative-caret-position="189">
+              <caret line="99" column="78" lean-forward="false" selection-start-line="99" selection-start-column="78" selection-end-line="99" selection-end-column="78" />
               <folding>
                 <element signature="e#25#62#0" expanded="true" />
               </folding>
@@ -53,35 +53,37 @@
       <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="27" />
+            <state relative-caret-position="235">
+              <caret line="65" column="0" lean-forward="true" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SECOND">
-              <first_editor relative-caret-position="510">
-                <caret line="34" column="35" lean-forward="false" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="-30">
+                <caret line="106" column="1" lean-forward="false" selection-start-line="106" selection-start-column="1" selection-end-line="106" selection-end-column="1" />
                 <folding>
-                  <marker date="1491923895000" expanded="true" signature="551:2184" ph="{...}" />
-                  <marker date="1491923895000" expanded="true" signature="576:1352" ph="{&quot;code&quot;: 1...}" />
-                  <marker date="1491923895000" expanded="true" signature="850:1317" ph="[...]" />
-                  <marker date="1491923895000" expanded="true" signature="864:941" ph="{&quot;frequency&quot;: 19...}" />
-                  <marker date="1491923895000" expanded="true" signature="955:1032" ph="{&quot;frequency&quot;: 10...}" />
-                  <marker date="1491923895000" expanded="true" signature="1046:1124" ph="{&quot;frequency&quot;: 12...}" />
-                  <marker date="1491923895000" expanded="true" signature="1138:1215" ph="{&quot;frequency&quot;: 12...}" />
-                  <marker date="1491923895000" expanded="true" signature="1229:1307" ph="{&quot;frequency&quot;: 13...}" />
-                  <marker date="1491923895000" expanded="true" signature="1377:2182" ph="{&quot;code&quot;: 1...}" />
-                  <marker date="1491923895000" expanded="true" signature="1688:2147" ph="[...]" />
-                  <marker date="1491923895000" expanded="true" signature="1702:1778" ph="{&quot;frequency&quot;: 8...}" />
-                  <marker date="1491923895000" expanded="true" signature="1792:1867" ph="{&quot;frequency&quot;: 6...}" />
-                  <marker date="1491923895000" expanded="true" signature="1881:1957" ph="{&quot;frequency&quot;: 8...}" />
-                  <marker date="1491923895000" expanded="true" signature="1971:2047" ph="{&quot;frequency&quot;: 5...}" />
-                  <marker date="1491923895000" expanded="true" signature="2061:2137" ph="{&quot;frequency&quot;: 5...}" />
+                  <marker date="1492076319000" expanded="true" signature="551:2361" ph="{...}" />
+                  <marker date="1492076319000" expanded="true" signature="576:577" ph="{&quot;code&quot;: 1...}" />
+                  <marker date="1492076319000" expanded="true" signature="576:1437" ph="{&quot;code&quot;: 0...}" />
+                  <marker date="1492076319000" expanded="true" signature="848:1402" ph="[...]" />
+                  <marker date="1492076319000" expanded="true" signature="862:956" ph="{&quot;frequency&quot;: 0.02186421173762946...}" />
+                  <marker date="1492076319000" expanded="true" signature="970:1065" ph="{&quot;frequency&quot;: 0.011507479861910242...}" />
+                  <marker date="1492076319000" expanded="true" signature="1079:1174" ph="{&quot;frequency&quot;: 0.01380897583429229...}" />
+                  <marker date="1492076319000" expanded="true" signature="1188:1282" ph="{&quot;frequency&quot;: 0.01380897583429229...}" />
+                  <marker date="1492076319000" expanded="true" signature="1296:1392" ph="{&quot;frequency&quot;: 0.014959723820483314...}" />
+                  <marker date="1492076319000" expanded="true" signature="1462:2359" ph="{&quot;code&quot;: 0...}" />
+                  <marker date="1492076319000" expanded="true" signature="1787:1881" ph="{&quot;frequency&quot;: 0.02877697841726619...}" />
+                  <marker date="1492076319000" expanded="true" signature="1895:1988" ph="{&quot;frequency&quot;: 0.02158273381294964...}" />
+                  <marker date="1492076319000" expanded="true" signature="2002:2096" ph="{&quot;frequency&quot;: 0.02877697841726619...}" />
+                  <marker date="1492076319000" expanded="true" signature="2110:2205" ph="{&quot;frequency&quot;: 0.017985611510791366...}" />
+                  <marker date="1492076319000" expanded="true" signature="2270:2314" ph="{&quot;frequency&quot;: 5...}" />
+                  <marker date="1492076319000" expanded="true" signature="2270:2324" ph="[...]" />
+                  <marker date="1492076319000" expanded="true" signature="2270:2359" ph="{&quot;code&quot;: 1...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -183,9 +185,9 @@
         <option value="$PROJECT_DIR$/file.py" />
         <option value="$PROJECT_DIR$/start.py" />
         <option value="$PROJECT_DIR$/news/news_test_1.txt" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/news/news_test_0.txt" />
         <option value="$PROJECT_DIR$/nlpChinese.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -622,7 +624,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1366" height="649" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28323263" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -632,7 +634,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4469914" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34111312" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34111312" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39971346" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -981,46 +983,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/news/news_test_1.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SECOND">
-          <first_editor relative-caret-position="510">
-            <caret line="34" column="35" lean-forward="false" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
-            <folding>
-              <marker date="1491923895000" expanded="true" signature="551:2184" ph="{...}" />
-              <marker date="1491923895000" expanded="true" signature="576:1352" ph="{&quot;code&quot;: 1...}" />
-              <marker date="1491923895000" expanded="true" signature="850:1317" ph="[...]" />
-              <marker date="1491923895000" expanded="true" signature="864:941" ph="{&quot;frequency&quot;: 19...}" />
-              <marker date="1491923895000" expanded="true" signature="955:1032" ph="{&quot;frequency&quot;: 10...}" />
-              <marker date="1491923895000" expanded="true" signature="1046:1124" ph="{&quot;frequency&quot;: 12...}" />
-              <marker date="1491923895000" expanded="true" signature="1138:1215" ph="{&quot;frequency&quot;: 12...}" />
-              <marker date="1491923895000" expanded="true" signature="1229:1307" ph="{&quot;frequency&quot;: 13...}" />
-              <marker date="1491923895000" expanded="true" signature="1377:2182" ph="{&quot;code&quot;: 1...}" />
-              <marker date="1491923895000" expanded="true" signature="1688:2147" ph="[...]" />
-              <marker date="1491923895000" expanded="true" signature="1702:1778" ph="{&quot;frequency&quot;: 8...}" />
-              <marker date="1491923895000" expanded="true" signature="1792:1867" ph="{&quot;frequency&quot;: 6...}" />
-              <marker date="1491923895000" expanded="true" signature="1881:1957" ph="{&quot;frequency&quot;: 8...}" />
-              <marker date="1491923895000" expanded="true" signature="1971:2047" ph="{&quot;frequency&quot;: 5...}" />
-              <marker date="1491923895000" expanded="true" signature="2061:2137" ph="{&quot;frequency&quot;: 5...}" />
-            </folding>
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -1034,11 +1001,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/nlpChinese.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="99" column="64" lean-forward="false" selection-start-line="99" selection-start-column="64" selection-end-line="99" selection-end-column="64" />
+        <state relative-caret-position="189">
+          <caret line="99" column="78" lean-forward="false" selection-start-line="99" selection-start-column="78" selection-end-line="99" selection-end-column="78" />
           <folding>
             <element signature="e#25#62#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="65" column="0" lean-forward="true" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-30">
+            <caret line="106" column="1" lean-forward="false" selection-start-line="106" selection-start-column="1" selection-end-line="106" selection-end-column="1" />
+            <folding>
+              <marker date="1492076319000" expanded="true" signature="551:2361" ph="{...}" />
+              <marker date="1492076319000" expanded="true" signature="576:577" ph="{&quot;code&quot;: 1...}" />
+              <marker date="1492076319000" expanded="true" signature="576:1437" ph="{&quot;code&quot;: 0...}" />
+              <marker date="1492076319000" expanded="true" signature="848:1402" ph="[...]" />
+              <marker date="1492076319000" expanded="true" signature="862:956" ph="{&quot;frequency&quot;: 0.02186421173762946...}" />
+              <marker date="1492076319000" expanded="true" signature="970:1065" ph="{&quot;frequency&quot;: 0.011507479861910242...}" />
+              <marker date="1492076319000" expanded="true" signature="1079:1174" ph="{&quot;frequency&quot;: 0.01380897583429229...}" />
+              <marker date="1492076319000" expanded="true" signature="1188:1282" ph="{&quot;frequency&quot;: 0.01380897583429229...}" />
+              <marker date="1492076319000" expanded="true" signature="1296:1392" ph="{&quot;frequency&quot;: 0.014959723820483314...}" />
+              <marker date="1492076319000" expanded="true" signature="1462:2359" ph="{&quot;code&quot;: 0...}" />
+              <marker date="1492076319000" expanded="true" signature="1787:1881" ph="{&quot;frequency&quot;: 0.02877697841726619...}" />
+              <marker date="1492076319000" expanded="true" signature="1895:1988" ph="{&quot;frequency&quot;: 0.02158273381294964...}" />
+              <marker date="1492076319000" expanded="true" signature="2002:2096" ph="{&quot;frequency&quot;: 0.02877697841726619...}" />
+              <marker date="1492076319000" expanded="true" signature="2110:2205" ph="{&quot;frequency&quot;: 0.017985611510791366...}" />
+              <marker date="1492076319000" expanded="true" signature="2270:2314" ph="{&quot;frequency&quot;: 5...}" />
+              <marker date="1492076319000" expanded="true" signature="2270:2324" ph="[...]" />
+              <marker date="1492076319000" expanded="true" signature="2270:2359" ph="{&quot;code&quot;: 1...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
